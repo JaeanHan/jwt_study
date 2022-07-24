@@ -29,7 +29,7 @@ jwt를 사용하는 이유 (key points)
 
 <br/>
 
-##### attemptAuthentication 메소드 :
+##### attemptAuthentication()
 유저 정보를 세션에 등록할 때 사용
 
 <br/>
@@ -40,7 +40,7 @@ authenticationManager 객체를 통해 아이디 비밀번호 비교 및 Authent
 
 <br/>
 
-##### successfulAuthentication 메소드 :
+##### successfulAuthentication()
 로그인 성공해서 Security Session에 Authentication 객체가 등록되면 실행됨
 
 <br/>
@@ -53,7 +53,7 @@ authenticationManager 객체를 통해 아이디 비밀번호 비교 및 Authent
 
 <br/>
 
-##### doFilterInternal 메소드 :
+##### doFilterInternal()
 인증이나 권한이 필요한 주소요청이 있을 때 해당 메소드를 거쳐감
 
 <br/>
