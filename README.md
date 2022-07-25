@@ -64,3 +64,9 @@ authenticationManager 객체를 통해 아이디 비밀번호 비교 및 Authent
 
 #### Authentication is used by a server when the server needs to know exactly who is accessing their information or site.
 #### Authorization is a process by which a server determines if the client has permission to use a resource or access a file.
+
+<hr/>
+
+## reference
+메타코딩 
+https://www.youtube.com/watch?v=GEv_hw0VOxE&list=PL93mKxaRDidERCyMaobSLkvSPzYtIk0Ah
